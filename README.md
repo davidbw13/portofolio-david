@@ -1,4 +1,4 @@
 # David Portofolio
 portofolio
-Link web:
-https://yusupsupriyadi.github.io
+Demo web:
+https://davidbw13.github.io/portofolio-david/
